@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./galliciversvsme00nebogoog_0009.png"; bbox 0 0 3616 5887; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 620 2133 2352 2206">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 620 2133 2352 2206">
+     <span class='ocr_line' id='line_1_1' title="bbox 620 2133 2352 2206; baseline -0.001 -7"><span class='ocrx_word' id='word_1_1' title='bbox 620 2154 1021 2200; x_wconf 78' lang='lat' dir='ltr'>svssTlLlssmO</span> <span class='ocrx_word' id='word_1_2' title='bbox 1082 2152 1399 2198; x_wconf 72' lang='lat' dir='ltr'>SCRIPTORI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1444 2133 1948 2206; x_wconf 69' lang='lat' dir='ltr'>SCRIPTORvMQUE&#39;</span> <span class='ocrx_word' id='word_1_4' title='bbox 1981 2155 2352 2200; x_wconf 75' lang='lat' dir='ltr'>sch&#39;rA&#39;rom</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 455 2571 2530 2919">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 455 2571 2530 2919">
+     <span class='ocr_line' id='line_1_2' title="bbox 455 2571 2530 2640; baseline -0.001 -7"><span class='ocrx_word' id='word_1_5' title='bbox 455 2591 596 2635; x_wconf 87' lang='lat' dir='ltr'>NON</span> <span class='ocrx_word' id='word_1_6' title='bbox 661 2588 996 2633; x_wconf 77' lang='lat' dir='ltr'><strong>MINORES</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1061 2587 1267 2640; x_wconf 82' lang='lat' dir='ltr'><strong>QVAM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1331 2587 1630 2630; x_wconf 81' lang='lat' dir='ltr'>GRANDE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1693 2588 1883 2632; x_wconf 83' lang='lat' dir='ltr'>OPVS</span> <span class='ocrx_word' id='word_1_10' title='bbox 1945 2588 2271 2632; x_wconf 78' lang='lat' dir='ltr'>GRATIAS</span> <span class='ocrx_word' id='word_1_11' title='bbox 2337 2571 2530 2631; x_wconf 71' lang='lat' dir='ltr'>AG&#39;AT</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 855 2730 2117 2776; baseline 0 -2"><span class='ocrx_word' id='word_1_12' title='bbox 855 2731 1293 2775; x_wconf 78' lang='lat' dir='ltr'>TENVISSIMVM</span> <span class='ocrx_word' id='word_1_13' title='bbox 1356 2730 1477 2774; x_wconf 75' lang='lat' dir='ltr'>Hoc</span> <span class='ocrx_word' id='word_1_14' title='bbox 1537 2730 1829 2774; x_wconf 85' lang='lat' dir='ltr'><strong>EXOLETA</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1878 2732 2117 2776; x_wconf 84' lang='lat' dir='ltr'>LINGVA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1091 2872 1891 2919; baseline 0.003 -3"><span class='ocrx_word' id='word_1_16' title='bbox 1091 2873 1204 2916; x_wconf 82' lang='lat' dir='ltr'>SED</span> <span class='ocrx_word' id='word_1_17' title='bbox 1252 2872 1506 2918; x_wconf 75' lang='lat' dir='ltr'><strong>DEVOTO</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1555 2874 1639 2916; x_wconf 82' lang='lat' dir='ltr'>Ex</span> <span class='ocrx_word' id='word_1_19' title='bbox 1687 2873 1891 2919; x_wconf 85' lang='lat' dir='ltr'>CORDE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1315 3017 1679 3062">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1315 3017 1679 3062">
+     <span class='ocr_line' id='line_1_5' title="bbox 1315 3017 1679 3062; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 1315 3017 1679 3062; x_wconf 81' lang='lat' dir='ltr'>DEDICATVM</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
